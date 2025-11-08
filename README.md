@@ -1,6 +1,6 @@
 # connecting
 
-to connect the keyboard, all you have to do is turn on your hub with the hub code in memory(you can just run it with the pybricks app once, it will stay on the hub until another change even after being shut down), and launch the pc program. if everything went well, there should be "connected!" in the console.
+to connect the keyboard, all you have to do is turn on your hub with the hub code in memory(you can just run it with the pybricks app once, it will stay on the hub until another change even after being shut down), and launch the pc program after. if everything went well, there should be "connected!" in the console.
 
 # using it and tweaking
 
