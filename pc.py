@@ -53,7 +53,8 @@ async def main():
                     keyboard.press(Key.enter)
                     buffer.clear()
                 else:
-                    buffer.append(char)
+                    if str(char) in ['0', '1']:
+                        buffer.append(char)
 
         await client.start_notify(console_char.uuid, handle_data)
         while True:
